@@ -2,6 +2,7 @@
 Alle Dateien, Daten, Infos die ich genutzt habe um meinen Brauapparat zu bauen
 
 Zur Einkaufsliste:
+Gesamtkosten etwa 400€
 
 Die ist sehr einfach und rudimentär zusammengeschrieben und soll nur ungefähr vermitteln was gebraucht wird und wieviel das kostet.
 Ich persönlich verwende vieles vom Schrottplatz. Dort kann man, besonders was Teile aus Edelstahl angeht, sehr sehr viel sparen.
