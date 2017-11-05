@@ -1,4 +1,7 @@
-# Brauapparat
+# Brauapparat mit interner Steuerung (Entwicklung eingestellt)
+(zum neuen Projekt "BierBox (Brauapparat mit externer Steuerung)" gehts hier entlang https://github.com/MHCraftbeer/BierBox)
+
+mehr Infos auf meinem Blog: 
 https://mhcraftbeer.wordpress.com/
 
 Alle Dateien, Daten, Infos die ich genutzt habe um meinen Brauapparat zu bauen
